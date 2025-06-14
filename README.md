@@ -22,7 +22,6 @@ A Python-based Jupyter Notebook pipeline for the acquisition, preprocessing, ana
   * [7. Multi-Otsu](#6-multi-otsu)
 * [Results](#-results)
 * [Project Structure](#project-structure)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 

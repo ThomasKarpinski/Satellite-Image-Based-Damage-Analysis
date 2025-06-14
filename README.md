@@ -127,9 +127,6 @@ def urban_mask(b02, b03, b04, b08, b11):
 ### 6. Grayscale Thresholding
 
 * **Grayscale Thresholding** for quick damage masks.
-```python
-damage_mask = detect_damage(ndvi, method='multi_otsu')
-```
 
 ![Damage Detection Output](images/damage_segmentation.png)
 
@@ -138,10 +135,6 @@ damage_mask = detect_damage(ndvi, method='multi_otsu')
 ### 7. Multi-Otsu
 
 * **Multi-Otsu** for detailed damage classes (e.g., no damage, mild, moderate, severe).
-
-```python
-damage_mask = detect_damage(ndvi, method='multi_otsu')
-```
 
 ![Damage Detection Output](images/damage_segmentation_multiotsu.png)
 

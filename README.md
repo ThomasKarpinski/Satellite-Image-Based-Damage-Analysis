@@ -55,7 +55,7 @@ You can install all dependencies with:
 pip install -r requirements.txt
 ```
 
-*(If you don’t have a `requirements.txt`, simply run `pip install rasterio numpy scikit-image matplotlib opencv-python`)*
+*(If you don’t have a `requirements.txt`, simply run `pip install numpy scikit-image matplotlib `)*
 
 ---
 
